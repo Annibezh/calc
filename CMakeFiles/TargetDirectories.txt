@@ -1,0 +1,2 @@
+/home/anna/MyProj/CMakeFiles/rebuild_cache.dir
+/home/anna/MyProj/CMakeFiles/edit_cache.dir
